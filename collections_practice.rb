@@ -43,5 +43,4 @@ def add_s(array)
   else
     item
   end
-  end
 end
