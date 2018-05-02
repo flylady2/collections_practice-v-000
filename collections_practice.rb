@@ -42,5 +42,5 @@ def add_s(array)
       element.insert(-1, "s")
     else
       element
-    end
+    end}
 end
